@@ -1,8 +1,8 @@
-#include "components/board/boardInterface.h";
-#include "components/debug/debugInterface.h";
-#include "components/network/networkInterface.h";
-#include "components/ota/otaInterface.h";
-#include "components/webserver/webserverinterface.h";
+#include "components/board/boardInterface.h"
+#include "components/debug/debugInterface.h"
+#include "components/network/networkInterface.h"
+#include "components/ota/otaInterface.h"
+#include "components/webserver/webserverinterface.h"
 
 class Domain {
     private:
